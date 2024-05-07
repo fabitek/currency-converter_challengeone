@@ -25,7 +25,7 @@ Sigue estos pasos para tener un entorno de desarrollo ejecutándose:
 
 ```bash
 git clone https://example.com/Currency-Converter_ChallengeONE.git
-cd convertidor-de-moneda
+cd Currency-Converter_ChallengeONE
 ```
 
 2. **Compilar el proyecto:**
@@ -69,4 +69,4 @@ Mira también la lista de [contribuyentes](https://github.com/tu_usuario/Convert
 
 ## 🎁 Expresiones de Gratitud
 
-* Agradezcimientos especiales a Dios y al equipo de Alura.
+* Agradezcimiento especialmente a Dios y al equipo de Alura Latam.
