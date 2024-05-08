@@ -62,7 +62,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para las versiones dispo
 
 ## ✒️ Autores
 
-* **Fabian Tellez** - *Trabajo Inicial* - [tu_usuario](https://github.com/fabitek)
+* **Fabian Tellez** - *Trabajo Inicial* - [fabitek](https://github.com/fabitek)
 
 Mira también la lista de [contribuyentes](https://github.com/tu_usuario/Converter_ChallengeONE/contributors) que participaron en este proyecto.
 
