@@ -36,6 +36,7 @@ public class Principal {
 
         cicloPrincipal:
         while (true) {
+            System.out.println("*****************************************************************************************");
             System.out.println("\n********************************** MENÚ PRINCIPAL *************************************");
             System.out.println("1) Realizar conversión de moneda");
             System.out.println("2) Ver historial de conversiones");

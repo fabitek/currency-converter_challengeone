@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72ae4bd4-9ef6-46ab-813a-906bc25af7fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/explanation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/gson-2.10.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/calculations/ClienteHttp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/calculations/Conversion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/calculations/ExchangeRate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/calculations/JsonParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/main/Principal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/models/Divisa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/models/DivisasManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/calculations/Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/calculations/Conversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/main/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/main/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/models/Divisa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/models/Divisa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +90,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="ConversorDeMoneda/main" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
