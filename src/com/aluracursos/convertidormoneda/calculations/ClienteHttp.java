@@ -47,9 +47,4 @@ public class ClienteHttp {
     }
 
 }
-//    private static String parseJson(String responseBody) {
-//        Gson gson = new GsonBuilder().setPrettyPrinting().create();
-//        ExchangeRate exchangeRate = gson.fromJson(responseBody, ExchangeRate.class);
-//        return "\nConversion Rate: " + exchangeRate.conversion_rate +
-//               "\nConversion_result: " + exchangeRate.conversion_result;
-//    }
+

@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="72ae4bd4-9ef6-46ab-813a-906bc25af7fa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/main/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/convertidormoneda/main/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Currency-Converter_ChallengeONE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Currency-Converter_ChallengeONE.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +51,8 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/fabiantellez/IdeaProjects/ConvertidorDeMoneda",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
