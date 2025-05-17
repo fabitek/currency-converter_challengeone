@@ -15,17 +15,12 @@ import java.util.Scanner;
 
 public class Principal {
 
-    // Mover los formateadores y el historial para que sean accesibles por métodos auxiliares si es necesario,
-    // o mantenerlos dentro de main si toda la lógica permanece allí.
-    // Para este caso, los mantendremos en main y pasaremos como parámetros si creamos métodos auxiliares.
-    // static List<Conversion> historialConversiones = new ArrayList<>(); // Si fueran métodos estáticos auxiliares
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<Divisa> divisas = DivisasManager.getDivisas();
         List<Conversion> historialConversiones = new ArrayList<>(); // Aquí se guardará el historial
 
-        DecimalFormat dfMonto = new DecimalFormat("###,##0.##"); // Un solo formateador para montos, ajusta el patrón como necesites
+        DecimalFormat dfMonto = new DecimalFormat("###,##0.##"); // Un solo formateador para montos
         // "###,##0" para enteros con comas
         // "###,##0.00" para dos decimales con comas
         DecimalFormat dfMontoOriginal = new DecimalFormat("###,##0"); // Para el monto original
